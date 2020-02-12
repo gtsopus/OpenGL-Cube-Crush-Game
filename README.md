@@ -7,7 +7,7 @@ VraXaPsa is a 3D OpenGL game developed as a project for Computer Graphics and In
 ## Installation
 
 The game requires OpenGL,g++ and make in order to be properly installed.
-Additionally it requires freeglut3 which is installed by using:
+Additionally, it requires freeglut3 which is installed by using:
 >sudo apt-get install freeglut3 freeglut3-dev
 
 ## Rules/How to play
@@ -16,7 +16,7 @@ Rock destroys scissors. Paper destroys rock. Scissors destroy paper.
 ![](/Screenshots/2.PNG)
 
 
-To begin, press right click and click start from the menu. Click one cube to "select" it and then click a neighbouring cube to exchange them. 
+To start the game, press right click and click start from the menu. Click one cube to "select" it and then click a neighbouring cube to exchange them. 
 Using the arrow keys, the user can view the board from different angles.
 * If there is a triplet of colored cubes in a row, they get destroyed and you get points.
 * If there is a bomb next to the triplet, you lose 30 points.
