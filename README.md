@@ -33,3 +33,5 @@ Using the arrow keys, the user can view the board from different angles.
 stb_image.h library used is made by:
 
 https://github.com/nothings/stb/blob/master/stb_image.h
+
+Made by: Grigorios Tsopouridis
